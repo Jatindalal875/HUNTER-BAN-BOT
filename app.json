@@ -1,19 +1,19 @@
 {
-    "name": "Ban all",
+    "name": " HUNTER BAN BOT ",
     "description": "help you to ban the all memebers from the group",
-    "repository": "https://github.com/TIMESISNOTWAITING/Banall",
+    "repository": "https://github.com/JATINDALAL875/HUNTER-BAN-BOT",
     "image": "heroku/python",
     "env": {
-        "TELEGRAM_TOKEN": {
+        "BOT TOKEN": {
         "description": "Get this value from @BotFather"
         },
-        "TELEGRAM_APP_HASH":{
+        "API HASH":{
             "description": "Get this value from https://my.telegram.org"
         },
-        "SUDOS":{
+        "SUDO":{
             "description": "Enter your sudo Access ids"
         },
-        "TELEGRAM_APP_ID":{
+        "API ID":{
             "description": "Get this value from https://my.telegram.org"
         }
     },
